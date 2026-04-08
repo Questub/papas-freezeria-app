@@ -1,0 +1,11 @@
+[project]
+app_name          = "Papa's Freezeria"
+main_keyword      = "Papa's Freezeria app"
+short_description = "The Papa's Freezeria app lets players create delicious frozen treats while managing a busy ice cream shop."
+meta_description  = "Explore the ultimate guide for the Papa's Freezeria app with detailed download instructions, an overview of features, and a comprehensive FAQ to enhance your gaming experience."
+release_date      = "2026-04-08"
+
+additional_pages = [
+  "Papa's Freezeria online game",
+  "Papa's Pizzeria unblocked",
+]
